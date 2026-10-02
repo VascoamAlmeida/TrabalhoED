@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Compiled Java files
+*.class
+
+# Build directories
+build/
+target/
+
+# Generated Javadoc
+/docs/
+/src/doc/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
